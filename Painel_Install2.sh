@@ -18,7 +18,7 @@ cd
 apt-get install unzip
 rm -rf painelssh2.zip
 wget https://github.com/Eliotbr/Painel_install/raw/master/painelssh2.zip
-mv painelssh.zip /var/www/html/
+mv painelssh2.zip /var/www/html/
 cd /var/www/html
 unzip painelssh2.zip
 rm painelssh2.zip index.html
