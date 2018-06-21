@@ -1,0 +1,8 @@
+#!/bin/bash
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/AlterarSenha.sh
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/sshmonitor.sh
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/remover.sh
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/install.sh
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/AlterarSenha.sh
+wget https://raw.githubusercontent.com/Eliotbr/Painel_install/master/alterarlimite.sh
+echo MOVIDOS
